@@ -24,7 +24,8 @@ public class Prime1
           }
           if(i==j)
            {
-           system.out.println(" "+i);
+           system.out.println(" "+2);
+             
            }
          }
       }
